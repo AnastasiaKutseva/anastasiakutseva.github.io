@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+#root{
+    padding:2rem;
+    text-align: center;
+    font-family: 'Press Start 2P', sans-serif;
+    
+}
+
+#root canvas{
+    margin: 0 auto;
+    display: block;
+}
+
+span{
+padding-left:10px;
+
+}
